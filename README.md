@@ -47,6 +47,9 @@ print(data)
 ...
 ```
 
+[Visit PrOrganize Manager]([http://ec2-13-51-162-119.eu-north-1.compute.amazonaws.com/](https://my-portfolio-website-sxuy.onrender.com/blog))
+
+
 ## 👥 Contributing
 Contributions are welcome! Feel free to submit a **pull request** or open an **issue**.
 
